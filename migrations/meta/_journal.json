@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1711614830871,
+      "tag": "0000_woozy_barracuda",
+      "breakpoints": true
+    }
+  ]
+}
